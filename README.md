@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **multiple projects which enhance my brainstorming.**
 
-- 🌱 I’m currently learning **Power BI, Python, SQL and Machine learning**
+- 🌱 I’m currently learning **Power BI, Python, SQL and Machine learning.**
 
 - 👯 I’m looking to collaborate on **any type of project which give me callenges and boost my skills.**
 
